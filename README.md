@@ -22,9 +22,9 @@ This project is a Color Guessing Game built using HTML, CSS, and JavaScript. The
   - Scores and tries are stored in localStorage, so they remain even after refreshing the browser tab.
   - Clicking the Restart button resets everything (score, tries, and localStorage).
 
-# Screen Shots:
+# Screenshots:
 
-<img width="365" height="615" alt="Screenshot 2025-09-23 184600" src="https://github.com/user-attachments/assets/327cd229-6429-4918-b93b-f53348451250" />
-<img width="370" height="612" alt="Screenshot 2025-09-23 184504" src="https://github.com/user-attachments/assets/b02985df-1483-4873-a13c-ad246c575711" />
-<img width="368" height="612" alt="Screenshot 2025-09-23 184440" src="https://github.com/user-attachments/assets/bbf6346d-eec8-46fa-b473-5c13a73b43e6" />
+<img width="265" height="465" alt="Screenshot 2025-09-23 184600" src="https://github.com/user-attachments/assets/327cd229-6429-4918-b93b-f53348451250" />
+<img width="270" height="468" alt="Screenshot 2025-09-23 184504" src="https://github.com/user-attachments/assets/b02985df-1483-4873-a13c-ad246c575711" />
+<img width="268" height="468" alt="Screenshot 2025-09-23 184440" src="https://github.com/user-attachments/assets/bbf6346d-eec8-46fa-b473-5c13a73b43e6" />
 
