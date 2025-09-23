@@ -1,2 +1,23 @@
 # Color-Guess-Game-with-JS
 Guess the correct RGB color from multiple choices in this interactive game. Features live score &amp; tries counters, persistent storage with localStorage, and a restart option to start fresh anytime.
+
+This project is a Color Guessing Game built using HTML, CSS, and JavaScript. The player is shown a random RGB color code and must guess the correct color from six options. The game keeps track of the player’s score and tries using localStorage, ensuring the data remains even after refreshing the page. A Restart button allows players to reset their progress anytime.
+
+# Features:
+  - Generates a random RGB color code for each round.
+  - Player selects the correct color from six clickable options.
+  - Score increases when the player selects the correct color.
+  - Tries increase when the player selects the wrong color.
+  - Real-time score and tries tracking.
+  - Persistent storage using localStorage – scores and tries remain after refreshing.
+  - Restart button clears localStorage and resets the game.
+  - Simple, responsive, and user-friendly design.
+
+# Working:
+  - The game displays a random RGB color code (e.g., rgb(120, 45, 200)).
+  - Six color boxes are generated, one of which matches the given RGB code.
+  - The player clicks on the box they think matches the code.
+    - If correct → Score increases by 1.
+    - If wrong → Tries increase by 1.
+  - Scores and tries are stored in localStorage, so they remain even after refreshing the browser tab.
+  - Clicking the Restart button resets everything (score, tries, and localStorage).
