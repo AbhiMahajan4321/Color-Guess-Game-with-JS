@@ -1,4 +1,5 @@
-# Color-Guess-Game-with-JS
+# Color-Guess-Game-with-JS 
+# Go for a Test Drive - https://color-guess-game-with-js.vercel.app/
 Guess the correct RGB color from multiple choices in this interactive game. Features live score &amp; tries counters, persistent storage with localStorage, and a restart option to start fresh anytime.
 
 This project is a Color Guessing Game built using HTML, CSS, and JavaScript. The player is shown a random RGB color code and must guess the correct color from six options. The game keeps track of the player’s score and tries using localStorage, ensuring the data remains even after refreshing the page. A Restart button allows players to reset their progress anytime.
